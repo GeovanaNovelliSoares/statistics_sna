@@ -38,9 +38,6 @@ Através de algoritmos de detecção de comunidades, medidas de centralidade e v
 
 ---
 
-## ▶️ Como executar
-
-1. **Clone o repositório:**
 
 ```bash
 git clone https://github.com/GeovanaNovelliSoares/statistics_sna.git
